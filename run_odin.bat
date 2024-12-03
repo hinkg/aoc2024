@@ -1,2 +1,2 @@
 @echo off
-odin run %1
+odin run %*
